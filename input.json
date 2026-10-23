@@ -1,0 +1,13 @@
+{
+  "mode": "company_job_family",
+  "companies": [
+    "google"
+  ],
+  "jobFamilies": [
+    "software-engineer"
+  ],
+  "maxResults": 5,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
